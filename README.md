@@ -1,5 +1,4 @@
 # python_homework
-A repository to contain exercices and homework for the Python EBC 2016 course
+My homework for the course Practical python programming for Big Data and the scientist
 
-
-Yay, I added a line..
+I can also edit /Jonas
